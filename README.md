@@ -1,0 +1,2 @@
+# AICTE_internships
+Water_quality_prediction
